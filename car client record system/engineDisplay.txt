@@ -1,0 +1,115 @@
+ms
+1
+ENGINE CONFIGURATION:
+1.5L Turbo four-cylinder engine
+FUEL TYPE:
+Gasoline
+HORSEPOWER:
+160 hp @ 5,700 rpm
+TRANSMISSION:
+Continuous Variable Transmission
+2
+ENGINE CONFIGURATION:
+2.0L Turbo four-cylinder engine
+FUEL TYPE:
+Diesel
+HORSEPOWER:
+250 hp @ 5,300 rpm
+TRANSMISSION:
+9-speed automatic transmission
+cs
+1
+ENGINE CONFIGURATION:
+1.5L turbocharged four-cylinder
+FUEL TYPE:
+Diesel
+HORSEPOWER:
+153hp @ 5,600rpm
+TRANSMISSION:
+six-speed automatic transmission
+cos
+1
+ENGINE CONFIGURATION:
+3.6L V6 engine
+FUEL TYPE:
+Diesel
+HORSEPOWER:
+308 hp @ 6,800 rpm
+TRANSMISSION:
+8-speed automatic transmission
+2
+ENGINE CONFIGURATION:
+1.8L Duramax four-cylinder engine
+FUEL TYPE:
+Diesel
+HORSEPOWER:
+180 hp @ 3,400 rpm
+TRANSMISSION:
+6-speed automatic transmission
+ss
+1
+ENGINE CONFIGURATION:
+6.2L EcoTec3 V8 engine
+FUEL TYPE:
+Gasoline
+HORSEPOWER:
+420 hp @ 5,600 rpm
+TRANSMISSION:
+10-speed automatic transmission
+2
+ENGINE CONFIGURATION:
+3.0L Duramax Turbo I6 engine
+FUEL TYPE:
+Diesel
+HORSEPOWER:
+277 hp @ 3,750 rpm
+TRANSMISSION:
+10-speed automatic transmission
+3
+ENGINE CONFIGURATION:
+2.7L Turbo engine
+FUEL TYPE:
+Gasoline
+HORSEPOWER:
+310 hp @ 5,600 rpm
+TRANSMISSION:
+8-speed automatic transmission
+es
+1
+ENGINE CONFIGURATION:
+1.5L Turbo four-cylinder engine
+FUEL TYPE:
+Gasoline
+HORSEPOWER:
+170 hp @ 5,600 rpm
+TRANSMISSION:
+6-speed automatic transmission
+sus
+1
+ENGINE CONFIGURATION:
+6.2L V8 engine
+FUEL TYPE:
+Gasoline
+HORSEPOWER:
+420 hp @ 5,600 rpm
+TRANSMISSION:
+10-speed automatic transmission
+2
+ENGINE CONFIGURATION:
+3.0L Duramax Turbo Diesel engine
+FUEL TYPE:
+Diesel
+HORSEPOWER:
+277 hp @ 3,750 rpm
+TRANSMISSION:
+10-speed automatic transmission
+3
+ENGINE CONFIGURATION:
+5.3L V8 engine
+FUEL TYPE:
+Gasoline
+HORSEPOWER:
+355 hp @ 5,600 rpm
+TRANSMISSION:
+10-speed automatic transmission
+sue

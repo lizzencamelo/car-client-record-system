@@ -8,7 +8,8 @@ Built using an interactive menu driven C++ program, our project is founded on th
 ## Built with 
 C++ 
 
-## Built by Kanchan Patil and [Lizzen Camelo](https://github.com/lizzencamelo)
+## Built by 
+Kanchan Patil and [Lizzen Camelo](https://github.com/lizzencamelo)
 
 ## Program Flow
 

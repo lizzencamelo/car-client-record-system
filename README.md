@@ -6,10 +6,10 @@ A *simple log system* that records the purchase details of a Chevrolet car tailo
 Built using an interactive menu driven C++ program, our project is founded on the essential principles of OOP: classes, objects, inheritance, data abstraction and encapsulation, polymorphism.
 
 ## Built with 
-C++ 
+```C++ ```
 
 ## Built by 
-Kanchan Patil and [Lizzen Camelo](https://github.com/lizzencamelo)
+**Kanchan Patil** and **[Lizzen Camelo](https://github.com/lizzencamelo)**
 
 ## Program Flow
 

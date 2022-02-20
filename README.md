@@ -3,7 +3,11 @@
 A *simple log system* that records the purchase details of a Chevrolet car tailored to the style and comfort of our clients. It also provides the administration a glimpse at all the records of their clientele.
 
 
-Built using an interactive menu driven C++ program, our project is founded on the essential principles of OOP: classes, objects, inheritance, data abstraction and encapsulation, polymorphism
+Built using an interactive menu driven C++ program, our project is founded on the essential principles of OOP: classes, objects, inheritance, data abstraction and encapsulation, polymorphism.
+
+## Built with C++ 
+
+### Built by Kanchan Patil and [Lizzen Camelo](https://github.com/lizzencamelo)
 
 ## Program Flow
 
@@ -29,9 +33,3 @@ Built using an interactive menu driven C++ program, our project is founded on th
 ![Admin Panel](img/adminPanel.png)
 
 ![Exit Page](img/exitPage.png)
-
-
-## Built with
-C++ 
-
-### Built by Kanchan Patil and [Lizzen Camelo](https://github.com/lizzencamelo)

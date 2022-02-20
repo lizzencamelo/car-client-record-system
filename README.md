@@ -18,7 +18,7 @@ Built using an interactive menu driven C++ program, our project is founded on th
 - The admin panel will prompt the user for the password and upon matching, it will load to the admin menu that will allow access to the client records. Logging off will direct him to the main panel menu.
     - Admin Login Password: **chevvy**
 
-![Password Page](img/passwordPage.png)
+![Password Panel](img/passwordPanel.png)
 
 ![Admin Panel](img/adminPanel.png)
 

@@ -9,7 +9,8 @@ Built using an interactive menu driven C++ program, our project is founded on th
 ```C++ ```
 
 ## Built by 
-**[Kanchan Patil](https://github.com/knchn08)** | **[Lizzen Camelo](https://github.com/lizzencamelo)**
+Kanchan Patil [Github](https://github.com/knchn08) | [LinkedIn](https://www.linkedin.com/in/kanchan-patil-a37087200/)  
+Lizzen Camelo [Github](https://github.com/lizzencamelo)
 
 ## Program Flow
 

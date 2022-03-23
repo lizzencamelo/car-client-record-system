@@ -1,4 +1,4 @@
-# Welcome to Chevrolet Client Record System
+# Welcome to the Chevrolet Client Record System
 
 A *simple log system* that records the purchase details of a Chevrolet car tailored to the style and comfort of our clients. It also provides the administration a glimpse at all the records of their clientele.
 

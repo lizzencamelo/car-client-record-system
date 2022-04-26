@@ -41,3 +41,10 @@ Built using an interactive menu driven C++ program, our project is founded on th
 
 ![Exit Page](img/exitPage.png)
 
+## Launch Project
+
+    -- Requirement: Visual Studio
+    -- Download ZIP from Code menu.
+    -- Extract folder.
+    -- Run Car Client Record System.sln.
+    -- Build and execute project.

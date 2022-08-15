@@ -5,8 +5,10 @@ A *simple log system* that records the purchase details of a Chevrolet car tailo
 
 Built using an interactive menu driven C++ program, our project is founded on the essential principles of OOP: classes, objects, inheritance, data abstraction and encapsulation, polymorphism.
 
-## Software Technology
-```C++ ```
+## Software Tools and Technology
+```C++ ``` 
+&nbsp;
+```Visual Studio```
 
 ## Built by 
 

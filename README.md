@@ -23,26 +23,24 @@ Built using an interactive menu driven C++ program, our project is founded on th
 
 - The program begins with the **main–menu panel**.
 
-
-![Main Panel](img/mainPanel.png)
+![mainPanel](https://user-images.githubusercontent.com/90834791/193409912-4c53ecc6-7dda-4f20-a24a-066bc478cdf7.png)
 
 
 
 - The **client panel** will direct the client to customizing their car with accessories and amenities. They will be prompted to enter their personal details- name, contact number, email-and vehicle number details. The final display includes a glance at the custom-made car features along with client information and payment details.
 
+![clientPanel](https://user-images.githubusercontent.com/90834791/193409924-8f9be7dd-7907-473a-9cf5-0d65583ac922.png)
 
-![Client Panel](img/clientPanel.png)
 
 
 - The **admin panel** will prompt the user for the password and upon matching, it will load to the admin menu that will allow access to the client records. Logging off will direct him to the main panel menu.
     - Admin Login Password: **chevvy**
 
+![passwordPanel](https://user-images.githubusercontent.com/90834791/193409938-d4bd1512-1a79-421b-bd72-4e6721cde1aa.png)
 
-![Password Panel](img/passwordPanel.png)
+![adminPanel](https://user-images.githubusercontent.com/90834791/193409946-57b7e392-b359-4299-a572-94e5254bb151.png)
 
-![Admin Panel](img/adminPanel.png)
-
-![Exit Page](img/exitPage.png)
+![exitPage](https://user-images.githubusercontent.com/90834791/193409950-851a01be-12fe-4cb8-bac3-7f00d9a59f3a.png)
 
 ## Launch Project
 
